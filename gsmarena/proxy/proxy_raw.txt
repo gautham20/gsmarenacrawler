@@ -1,0 +1,80 @@
+176.192.125.196	65103	RU	Russian Federation	elite proxy	no	yes	3 seconds ago
+181.112.51.174	65103	EC	Ecuador	elite proxy	no	yes	3 seconds ago
+197.248.25.6	53281	KE	Kenya	elite proxy	no	yes	3 seconds ago
+45.32.181.203	3128	GB	United Kingdom	anonymous	no	yes	1 minute ago
+116.58.233.243	62225	TH	Thailand	elite proxy	no	yes	1 minute ago
+118.97.129.219	8080	ID	Indonesia	anonymous	no	no	1 minute ago
+45.32.177.131	3128	GB	United Kingdom	anonymous	no	yes	1 minute ago
+187.49.206.162	80	BR	Brazil	elite proxy	no	yes	1 minute ago
+165.227.144.174	80	DE	Germany	anonymous	no	no	1 minute ago
+35.199.103.254	80	US	United States	anonymous	no	yes	1 minute ago
+195.154.77.130	3128	FR	France	anonymous	no	yes	1 minute ago
+203.74.4.3	80	TW	Taiwan	elite proxy	no	no	1 minute ago
+128.201.186.190	62225	BR	Brazil	elite proxy	no	yes	1 minute ago
+47.52.62.110	8080	HK	Hong Kong	anonymous	no	no	1 minute ago
+91.83.77.155	53281	HU	Hungary	elite proxy	no	yes	1 minute ago
+177.86.153.11	53281	BR	Brazil	elite proxy	no	yes	1 minute ago
+222.124.152.138	80	ID	Indonesia	elite proxy	no	no	1 minute ago
+80.83.20.14	80	LB	Lebanon	elite proxy	no	no	1 minute ago
+178.124.139.76	80	BY	Belarus	anonymous	no	no	1 minute ago
+101.78.219.178	8080	HK	Hong Kong	elite proxy	no	yes	1 minute ago
+103.254.94.190	8080	BD	Bangladesh	anonymous	no	yes	1 minute ago
+103.89.253.211	65103	IN	India	elite proxy	no	yes	1 minute ago
+89.165.227.57	3128	RO	Romania	elite proxy	no	yes	1 minute ago
+190.93.176.76	8080	PY	Paraguay	elite proxy	no	no	1 minute ago
+216.56.48.118	9000	US	United States	anonymous	no	yes	1 minute ago
+46.249.16.58	53281	RU	Russian Federation	elite proxy	no	yes	1 minute ago
+216.105.171.46	3128	US	United States	anonymous	no	yes	1 minute ago
+47.90.87.225	88	HK	Hong Kong	anonymous	no	no	1 minute ago
+181.193.60.194	53281	CR	Costa Rica	elite proxy	no	yes	1 minute ago
+203.74.4.2	80	TW	Taiwan	elite proxy	no	no	1 minute ago
+202.168.244.106	53281	BD	Bangladesh	elite proxy	no	yes	1 minute ago
+181.196.145.106	65103	EC	Ecuador	elite proxy	no	yes	1 minute ago
+45.77.43.130	3128	SG	Singapore	anonymous	no	yes	1 minute ago
+82.130.246.69	62225	ES	Spain	elite proxy	no	yes	1 minute ago
+171.101.237.248	3128	TH	Thailand	anonymous	no	no	1 minute ago
+203.86.205.106	80	NZ	New Zealand	elite proxy	no	no	1 minute ago
+27.72.61.115	8888	VN	Vietnam	anonymous	no	no	1 minute ago
+187.106.79.104	65103	BR	Brazil	elite proxy	no	yes	1 minute ago
+203.74.4.0	80	TW	Taiwan	elite proxy	no	no	1 minute ago
+87.110.0.182	53281	LV	Latvia	elite proxy	no	yes	1 minute ago
+181.143.162.189	53281	CO	Colombia	elite proxy	no	yes	1 minute ago
+170.233.43.221	65309	BR	Brazil	elite proxy	no	yes	1 minute ago
+47.52.104.72	443	HK	Hong Kong	anonymous	no	no	1 minute ago
+49.156.40.134	65301	KH	Cambodia	elite proxy	no	yes	1 minute ago
+45.79.0.108	1080	US	United States	anonymous	no	no	1 minute ago
+190.11.32.94	53281	AR	Argentina	elite proxy	no	yes	1 minute ago
+47.52.79.128	3128	HK	Hong Kong	anonymous	no	yes	1 minute ago
+177.66.240.49	53281	BR	Brazil	elite proxy	no	yes	1 minute ago
+47.88.32.46	3128	US	United States	anonymous	no	yes	1 minute ago
+5.1.27.124	53281	UA	Ukraine	elite proxy	no	yes	1 minute ago
+203.74.4.7	80	TW	Taiwan	elite proxy	no	no	1 minute ago
+203.146.217.107	8080	TH	Thailand	elite proxy	no	no	1 minute ago
+142.75.2.14	3128	CA	Canada	anonymous	no	yes	1 minute ago
+177.128.155.172	62225	BR	Brazil	elite proxy	no	yes	1 minute ago
+110.78.141.208	62225	TH	Thailand	elite proxy	no	yes	1 minute ago
+110.77.232.236	62225	TH	Thailand	elite proxy	no	yes	1 minute ago
+94.248.145.173	53281	HU	Hungary	elite proxy	no	yes	1 minute ago
+209.222.25.66	8888	US	United States	elite proxy	no	yes	1 minute ago
+213.136.89.121	80	DE	Germany	anonymous	no	no	1 minute ago
+81.163.119.84	53281	UA	Ukraine	elite proxy	no	yes	1 minute ago
+190.214.31.230	65205	EC	Ecuador	elite proxy	no	yes	1 minute ago
+202.154.182.197	53281	ID	Indonesia	elite proxy	no	yes	1 minute ago
+89.22.175.43	8080	RU	Russian Federation	anonymous	no	yes	1 minute ago
+203.74.4.1	80	TW	Taiwan	elite proxy	no	no	1 minute ago
+37.194.73.22	65103	RU	Russian Federation	elite proxy	no	yes	1 minute ago
+5.149.247.59	53281	HU	Hungary	elite proxy	no	yes	1 minute ago
+203.74.4.6	80	TW	Taiwan	elite proxy	no	no	1 minute ago
+193.188.254.67	53281	UA	Ukraine	elite proxy	no	yes	1 minute ago
+103.199.119.212	8080	AU	Australia	anonymous	no	yes	1 minute ago
+185.105.246.251	53281	SE	Sweden	elite proxy	no	yes	1 minute ago
+62.218.42.146	3128	AT	Austria	anonymous	no	no	1 minute ago
+190.152.19.190	62225	EC	Ecuador	elite proxy	no	yes	1 minute ago
+85.157.92.143	53281	FI	Finland	elite proxy	no	yes	1 minute ago
+75.151.213.85	8080	US	United States	elite proxy	no	yes	1 minute ago
+195.209.125.98	53281	RU	Russian Federation	elite proxy	no	yes	1 minute ago
+91.238.222.67	3128	RU	Russian Federation	elite proxy	no	yes	1 minute ago
+96.9.69.164	53281	KH	Cambodia	elite proxy	no	yes	1 minute ago
+154.66.122.130	53281	MW	Malawi	elite proxy	no	yes	1 minute ago
+158.69.31.45	3128	CA	Canada	anonymous	no	yes	1 minute ago
+194.246.105.52	53281	UA	Ukraine	elite proxy	no	yes	1 minute ago
